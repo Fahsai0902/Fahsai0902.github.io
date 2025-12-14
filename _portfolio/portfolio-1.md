@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/assets/images/Unit 1.png'>"
+title: "Unit 1"
+excerpt: "Computational thinking with variables<br/><img src='/assets/images/Unit 1.png'>"
 collection: portfolio
 ---
 
